@@ -3,20 +3,18 @@
 """
 SYNOPSIS
 
-    TODO helloworld [-h,--help] [-v,--verbose] [--version]
+    qr_generator [-h,--help] [-v,--verbose] [--version]
 
 DESCRIPTION
 
-    ACIO program to dynamically generate QR codes and send them via Gmail.
+    Python program to dynamically generate QR codes and send them via Gmail.
 
 EXAMPLES
 
     Ex.:
 
-      $python acio_qr_generator.py <text_to_include>
-      $python acio_qr_generator.py <16.777.777-A>
-
-    TODO: Show some examples of how to use this script.
+      $python qr_generator.py <text_to_include>
+      $python qr_generator.py <16.777.777-A>
 
 EXIT STATUS
 
