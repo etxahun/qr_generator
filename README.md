@@ -12,7 +12,7 @@ Python QR generator and e-mail notification application.
 
 First of all install the required Python libraries:
 ```shell
-    $ sudo pip install pil qrcode
+    $ sudo pip install pillow qrcode
 ```
 
 ## Configuration
